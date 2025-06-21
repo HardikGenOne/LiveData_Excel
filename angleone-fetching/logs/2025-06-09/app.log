@@ -1,0 +1,65 @@
+[I 250609 09:48:21 test:87] WebSocket opened
+[W 250609 09:48:30 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:48:30 test:91] WebSocket error: Connection closed
+[W 250609 09:48:30 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:48:32 test:87] WebSocket opened
+[W 250609 09:48:50 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:48:51 test:91] WebSocket error: Connection closed
+[W 250609 09:48:51 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:48:59 test:87] WebSocket opened
+[W 250609 09:49:08 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:49:08 test:91] WebSocket error: Connection closed
+[W 250609 09:49:08 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:49:14 test:87] WebSocket opened
+[W 250609 09:49:15 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:49:16 test:91] WebSocket error: Connection closed
+[W 250609 09:49:16 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:49:25 test:86] WebSocket opened
+[W 250609 09:49:32 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:49:33 test:90] WebSocket error: Connection closed
+[W 250609 09:49:33 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:50:41 test:86] WebSocket opened
+[W 250609 09:50:46 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:50:46 test:90] WebSocket error: Connection closed
+[W 250609 09:50:46 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:50:48 test:86] WebSocket opened
+[W 250609 09:50:52 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:50:53 test:90] WebSocket error: Connection closed
+[W 250609 09:50:53 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:54:51 test:86] WebSocket opened
+[W 250609 09:54:56 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:54:56 test:90] WebSocket error: Connection closed
+[W 250609 09:54:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:54:58 test:86] WebSocket opened
+[W 250609 09:55:01 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 09:55:01 test:90] WebSocket error: Connection closed
+[W 250609 09:55:01 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 09:55:09 test:86] WebSocket opened
+[W 250609 10:02:19 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 10:02:19 test:90] WebSocket error: Connection closed
+[W 250609 10:02:19 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 10:10:30 test:87] WebSocket opened
+[W 250609 10:10:40 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 10:10:40 test:91] WebSocket error: Connection closed
+[W 250609 10:10:40 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 10:10:50 test:87] WebSocket opened
+[W 250609 10:15:45 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 10:15:45 test:91] WebSocket error: Connection closed
+[W 250609 10:15:45 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 10:15:47 test:82] WebSocket opened
+[W 250609 10:15:48 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250609 10:15:58 test:82] WebSocket opened
+[E 250609 10:15:58 test:86] WebSocket error: Connection closed
+[W 250609 10:15:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250609 10:15:58 test:86] WebSocket error: Connection closed
+[W 250609 10:15:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250609 10:15:58 test:86] WebSocket error: Connection closed
+[W 250609 10:15:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250609 10:18:05 test:82] WebSocket opened
+[I 250609 10:26:07 test:82] WebSocket opened
+[W 250609 12:42:50 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 12:42:58 test:86] WebSocket error: Connection closed
+[W 250609 12:42:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250609 12:43:00 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250609 12:43:02 test:86] WebSocket error: Connection closed
+[W 250609 12:43:02 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
