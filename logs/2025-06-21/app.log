@@ -21,3 +21,9 @@
 [I 250621 17:59:40 fetching_tickData:120] ✅ WebSocket opened
 [W 250621 18:24:27 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
 [I 250621 18:24:37 fetching_tickData:120] ✅ WebSocket opened
+[E 250621 20:31:30 fetching_tickData:124] ❌ WebSocket error: Connection closed
+[W 250621 20:31:30 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250621 20:31:30 fetching_tickData:124] ❌ WebSocket error: Connection closed
+[W 250621 20:31:30 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250621 20:31:30 fetching_tickData:124] ❌ WebSocket error: Connection closed
+[W 250621 20:31:30 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
