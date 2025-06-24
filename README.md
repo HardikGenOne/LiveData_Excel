@@ -84,7 +84,7 @@ Credentials (API keys, passwords, etc.) are managed securely using a `.env` file
 
 4. Run the app:
    ```bash
-   python main.py
+   python test.py
    ```
 
 ## 🔮 Roadmap
